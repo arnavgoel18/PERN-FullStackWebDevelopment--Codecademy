@@ -9,7 +9,6 @@ Projects completed during PERN Full Stack Dev Course
 * CSS5
 * NodeJs
 * ReactJs
-* GitHub
-* Markdown
+
 
 
