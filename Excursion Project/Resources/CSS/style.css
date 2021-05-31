@@ -1,21 +1,53 @@
 *{
-
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 body{
     background-color: #000;
-    text-align: center;
+    text-align: center; 
 }
 
 header{
     color: white;
-    font-size: 25px;
     font-family: Verdana;
+    font-size: 50px;
     font-weight: normal;
+    margin-bottom: 10px;
 }
 
 #link{
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
+    width: 100%;
+}
+
+.travel-guide{
+    color: white;
+    font-weight: 300;
+    font-family: Verdana;
+    font-size: 45px;
+    margin-top: 10px;
+}
+
+.travel-guide #description{
+    color: gray;
+    font-family: Verdana;
+    font-size: 21px;
+}
+
+footer{
+    width: 100%;
+    color: white;
+    font-weight: 300;
+    font-family: Verdana;
+    font-size: 45px;    
+}
+
+.copyright{
+    color: gray;
+    font-size: 20px;
+    text-align: right;
 }
