@@ -1,0 +1,21 @@
+*{
+
+}
+
+body{
+    background-color: #000;
+    text-align: center;
+}
+
+header{
+    color: white;
+    font-size: 25px;
+    font-family: Verdana;
+    font-weight: normal;
+}
+
+#link{
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
